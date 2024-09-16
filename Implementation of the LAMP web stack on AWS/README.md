@@ -1,4 +1,4 @@
-## WEB STACK IMPLEMENTATION (LAMP STACK) IN AWS
+## WEB STACK IMPLEMENTATION (LAMP STACK) IN AWS EC2
 
 ### Introduction:
 
@@ -8,7 +8,7 @@ __The LAMP stack is a popular open-source web development platform that consists
 
 __1.__ EC2 Instance of t2.micro type and Ubuntu 24.04 LTS (HVM) was lunched in the us-east-1 region using the AWS console.
 
-![Lunch Instance](./images/creating-ec2.png)
+![Lunch Instance](./images/creating-ec2-instance.png)
 ![Lunch Instance](./images/ec2-details.png)
 
 __2.__ Created SSH key pair named __my-ec2-key__ to access the instance on port 22
